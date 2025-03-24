@@ -1,20 +1,20 @@
-# Bank-Customer-Churn-Analysis-Dashboard
-## Project Description
+# 📊 Bank-Customer-Churn-Analysis-Dashboard
+## 📝 Project Description
 This interactive Power BI dashboard was developed to analyze customer churn behavior for a bank. The project focuses on identifying the churn rate, understanding customer segments contributing to churn, and providing valuable insights into customer retention strategies.
 
-## Project Objective
+## 🎯 Project Objective
 - To perform customer churn analysis and visualize churn trends.
 - Identify critical factors influencing customer churn.
 - Provide management with actionable insights to reduce churn and enhance customer retention.
 
-## Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Data Modeling and Relationships
 - Row-Level Security (RLS) Implementation
 - Interactive Slicers & Filters
 
-## Dataset Used
+## 🗂 Dataset Used
 - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/ActiveCustomer.xlsx">Dataset</a>
 - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/Bank_Churn.csv">Dataset</a>
 - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/CreditCard.xlsx">Dataset</a>
@@ -23,7 +23,7 @@ This interactive Power BI dashboard was developed to analyze customer churn beha
 - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/Gender.xlsx">Dataset</a>
 - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/Geography.xlsx">Dataset</a>
 
-## Key Features
+## 🧠 Key Features
 Overall Summary Metrics (KPI Cards):
 - Total Customers: 10,000
 - Active Customers: 5,151
@@ -54,18 +54,18 @@ Overall Summary Metrics (KPI Cards):
 - Spain: 24.77%
 - Active customers trend compared by country over the years.
 
-## Dashboard Interaction
+## 📷 Dashboard Interaction
 - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/Customer%20Churn%20Analysis.png">View Dashboard</a>
 - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/Churn%25%20(Customer%20Churn%20Analysis).png">View Dashboard</a>
 - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/RLS%20(Customer%20churn%20Analysis).png">View Dashboard</a>
 
-## Business Insights
+## 💡 Business Insights
 - Credit Card Holders are at a higher churn risk.
 - Fair and Poor Credit Score groups require proactive retention strategies.
 - France holds the largest customer base and needs targeted retention efforts.
 - Churn peaks in specific months like October and December, indicating potential seasonal trends or policy impacts.
 
-## Dashboard Preview
+## 📷 Dashboard Preview
 ![Customer Churn Analysis](https://github.com/user-attachments/assets/721b1b9d-5786-4978-b082-a2443af3abb4)
 
 ![Churn% (Customer Churn Analysis)](https://github.com/user-attachments/assets/17a7386a-6a6d-44ed-8e54-daabdec93b65)
