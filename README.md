@@ -19,7 +19,7 @@ This interactive Power BI dashboard was developed to analyze customer churn beha
 - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/Bank_Churn.csv">Dataset</a>
 - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/CreditCard.xlsx">Dataset</a>
 - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/CustomerInfo.csv">Dataset</a>
-- <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/ExitCustomer.xlsx">Dataset>/a>
+- <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/ExitCustomer.xlsx">Dataset></a>
 - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/Gender.xlsx">Dataset</a>
 - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/Geography.xlsx">Dataset</a>
 
@@ -66,7 +66,9 @@ Overall Summary Metrics (KPI Cards):
 
 ## Dashboard Preview
 ![Customer Churn Analysis](https://github.com/user-attachments/assets/721b1b9d-5786-4978-b082-a2443af3abb4)
+
 ![Churn% (Customer Churn Analysis)](https://github.com/user-attachments/assets/17a7386a-6a6d-44ed-8e54-daabdec93b65)
+
 ![RLS (Customer churn Analysis)](https://github.com/user-attachments/assets/b6ae48c7-71b5-439e-91bb-e402884315d8)
 
 
