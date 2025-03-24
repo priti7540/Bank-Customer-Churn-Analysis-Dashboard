@@ -19,7 +19,7 @@ This interactive Power BI dashboard was developed to analyze customer churn beha
 - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/Bank_Churn.csv">Dataset</a>
 - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/CreditCard.xlsx">Dataset</a>
 - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/CustomerInfo.csv">Dataset</a>
-- <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/ExitCustomer.xlsx">Dataset></a>
+- <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/ExitCustomer.xlsx">Dataset</a>
 - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/Gender.xlsx">Dataset</a>
 - <a href="https://github.com/priti7540/Bank-Customer-Churn-Analysis-Dashboard/blob/main/Geography.xlsx">Dataset</a>
 
@@ -32,6 +32,7 @@ Overall Summary Metrics (KPI Cards):
 - Non-Credit Card Holders: 2,945
 - Exit (Churned) Customers: 2,037
 - Retained Customers: 7,963
+
 ✅ Churn Rate Trend Analysis:
 - Monthly and yearly churn rates displayed.
 - Visual symbols and color coding to highlight months with increased or decreased churn.
